@@ -1,2 +1,2 @@
 # Exercises
-* first attempt
+* Example of README.md
